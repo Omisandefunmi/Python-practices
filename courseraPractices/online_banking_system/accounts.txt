@@ -1,0 +1,9 @@
+funmi, 45
+
+jane, 40.5
+
+        lade, 90
+
+sam, fifty-five
+
+funmi, 45.0
